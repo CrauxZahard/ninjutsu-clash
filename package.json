@@ -1,0 +1,23 @@
+{
+  "name": "ninjutsu-clash",
+  "version": "1.0.0",
+  "description": "This project was created intended for methodology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "rpg",
+    "ninja",
+    "clash"
+  ],
+  "author": "Tezada and Craux",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^6.3.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
