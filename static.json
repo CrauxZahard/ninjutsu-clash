@@ -1,0 +1,7 @@
+{
+  "root": "./",
+  "routes": {
+    "/*.html": "index.html",
+    "/src/view/*.html": ["game_view.html", "credits_view.html"]
+  }
+}
